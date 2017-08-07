@@ -1,0 +1,251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"sex",
+				"sex"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"a",
+				"a1"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"br",
+				"br"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"str",
+				"str3"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"st",
+				"str3"
+			],
+			[
+				"sr",
+				"str1"
+			],
+			[
+				"s",
+				"str2"
+			],
+			[
+				"v",
+				"_v3"
+			],
+			[
+				"_",
+				"_v2"
+			],
+			[
+				"e",
+				"empty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/test/all in one.php",
+		"/C/wamp/www/pharmacy/super/password.php",
+		"/C/wamp/www/pharmacy/admin/admin.php",
+		"/C/wamp/www/project/logout.php",
+		"/C/wamp/www/project/update.php",
+		"/C/wamp/www/project/config.php",
+		"/C/wamp/www/test/index.php",
+		"/C/Users/linux/AppData/Local/Temp/Rar$DIa0.654/logout.php",
+		"/C/wamp/www/test/html in php.php",
+		"/C/wamp/www/testmysql.php",
+		"/C/wamp/bin/php/php5.5.12/php.ini"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
